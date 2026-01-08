@@ -19,4 +19,5 @@ These rules are
    - No Disrespect
      
 *Failure to abide by these roleplay rules, you will recieve moderation actions!*
+
 » These rules will be updated and will keep being updated/revamped so make sure to keep reading them! «

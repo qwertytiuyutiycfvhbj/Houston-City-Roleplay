@@ -1,8 +1,7 @@
-# Houston-City-Roleplay
 Houston City Roleplay - RuleBook
 
 1. **Roleplay:**
-All users **must** roleplay correctly and without breaking rules.
+All users *must* roleplay correctly and without breaking rules.
 These rules are
    - No RDM [Random Death Match]
    - No VDM [Vehicle Death Match]
@@ -19,4 +18,4 @@ These rules are
    - No OA [Owner Abuse]
    - No Disrespect
      
-*Failure to abide by these* ***roleplay*** *rules, you will recieve moderation actions!*
+*Failure to abide by these roleplay rules, you will recieve moderation actions!*
